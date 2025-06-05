@@ -1,2 +1,1 @@
-# simple-calculator
-Simple Calculator Program in C++
+#Practicing Basic C++ programs~
